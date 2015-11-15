@@ -2,6 +2,7 @@
 Arduino Uno Programmer for Atmel AT28HC64B 8K Bytes EEPROM 
 
 Use your Arduino Uno to write and read to/from an Atmel AT28HC64B 8K bytes EEPROM
+
 This program uses two 74HC595 shift register chips to handle the 13 bits address
 
 EEPROM datasheet: http://www.atmel.com/images/doc0274.pdf
